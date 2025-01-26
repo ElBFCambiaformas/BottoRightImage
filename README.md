@@ -31,7 +31,7 @@ Here’s how the plugin looks with different positions:
 ## Installation
 
 1. **Download the Plugin:**
-   - [Click here to download](https://github.com/ElBFCambiaformas/BottomRightImage/raw/main/BottomRightImage.plugin.js) the latest version of `BottomRightImage.plugin.js`.
+   - [Save the link as to download](https://github.com/ElBFCambiaformas/BottomRightImage/raw/main/BottomRightImage.plugin.js) the latest version of `BottomRightImage.plugin.js`.
 
 2. **Move the Plugin File:**
    - Place the downloaded `.plugin.js` file into your BetterDiscord plugins folder:
