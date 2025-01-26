@@ -6,21 +6,27 @@
 
 - Display any image or GIF on your Discord window.
 - Choose from four positions:
-  - Bottom Right (default)
-  - Bottom Left
-  - Top Right
-  - Top Left
+  - **Bottom Right** (default)
+  - **Bottom Left**
+  - **Top Right**
+  - **Top Left**
 - Customize the size of the image (width and height).
 - Easily update the image URL directly from the plugin settings.
 
 ## Preview
 
-| Position | Example |
-|----------|---------|
-| Bottom Right | !(![image](https://github.com/user-attachments/assets/2a09c83f-9632-440f-96a8-3ed37c97a105)
-) |
-| Top Left |     ![image](https://github.com/user-attachments/assets/6f4dd14d-f08b-4c3a-a65d-a8c1891e4136)
+Here’s how the plugin looks with different positions:
+
+| Position      | Example                                           |
+|---------------|---------------------------------------------------|
+| **Bottom Right** | ![image](https://github.com/user-attachments/assets/2793cd86-7b35-4b86-9e91-aa9538337611)
  |
+| **Bottom Left**  |  ![image](https://github.com/user-attachments/assets/3f4c0b9f-4196-475a-8d48-4f5bd97eaeeb)
+ |
+| **Top Right**    |  ![image](https://github.com/user-attachments/assets/100ef818-2183-4879-bacb-ce231c83bb14)
+   |
+| **Top Left**     |   ![image](https://github.com/user-attachments/assets/7ad1a37f-ac72-4189-babe-7a453cb303cd)
+   |
 
 ## Installation
 
@@ -41,16 +47,16 @@
 
 ## Settings
 
+You can customize the following settings from the plugin settings menu:
+
 - **Image URL**: Enter the URL of the image or GIF you want to display.
 - **Width**: Set the width of the image (e.g., `100px`, `200px`, `50%`).
 - **Height**: Set the height of the image (e.g., `100px`, `200px`, `50%`).
 - **Position**: Choose where the image appears on your screen:
-  - Bottom Right
-  - Bottom Left
-  - Top Right
-  - Top Left
-
-All settings apply immediately upon change.
+  - **Bottom Right** (default)
+  - **Bottom Left**
+  - **Top Right**
+  - **Top Left**
 
 ## Example Settings
 
@@ -60,6 +66,8 @@ All settings apply immediately upon change.
 | **Width**    | `150px`                                |
 | **Height**   | `150px`                                |
 | **Position** | `bottom-right`                         |
+
+All settings apply immediately upon change, and you can see the effect in real-time without needing to restart Discord.
 
 ## Contributing
 
