@@ -19,7 +19,7 @@
 |----------|---------|
 | Bottom Right | !(![image](https://github.com/user-attachments/assets/2a09c83f-9632-440f-96a8-3ed37c97a105)
 ) |
-| Top Left |     ! [image](https://github.com/user-attachments/assets/6f4dd14d-f08b-4c3a-a65d-a8c1891e4136)
+| Top Left |     ![image](https://github.com/user-attachments/assets/6f4dd14d-f08b-4c3a-a65d-a8c1891e4136)
  |
 
 ## Installation
