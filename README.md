@@ -1,6 +1,8 @@
 # BottomRightImage Plugin
 
 **BottomRightImage** is a (Useless) BetterDiscord plugin that adds an image or GIF to any corner of your Discord window. It includes customizable options such as the image URL, size, and position.
+Idea by: unpapupro_120
+
 
 ## Features
 
